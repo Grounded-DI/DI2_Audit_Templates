@@ -1,0 +1,265 @@
+**Grounded DI LLC**
+
+⸻
+
+CleanAirWise DI² — Deterministic Audit Package
+
+⸻
+
+System:
+
+Grounded DI OS — System 2
+CleanAirWise DI²
+
+Version:
+
+v1.0
+
+System Mode:
+
+DI² FastPath 5.2 — Tier-15 (Passive Integrity)
+Clause-Locked Deterministic Audit Surface
+
+Entropy Floor:
+
+ΔH = 0.0042
+
+Entropy Cap:
+
+ΔH ≤ 0.0042 (runtime-locked)
+
+DI Principles Field:
+
+0–159 Active (Audit / Trace ON)
+
+⸻
+
+Audit Scope
+
+Prompts Audited: ___
+Cases Audited: ___
+Domains Covered: Environmental Air Quality (Deterministic Assessment)
+
+Audited Functions
+
+Audited functions include deterministic air-quality assessment structures such as parameter threshold evaluation, index computation, temporal window aggregation, classification logic, and procedural consistency checks, evaluated solely for integrity and determinism within the defined scope.
+
+⸻
+
+Date Issued:
+
+YYYY-MM-DD
+
+Audit Mode:
+
+Passive Integrity — No Routine Validation, No Adaptation, No Stochasticity
+
+⸻
+
+Attestation
+
+This package memorializes a point-in-time audit state of CleanAirWise DI² as of the date above.
+Artifacts herein are deterministic, static, and non-mutable. This package documents system integrity and determinism only and does not constitute health advice, environmental guidance, regulatory determination, operational instruction, or authorization to act.
+
+⸻
+
+Package Hash
+
+SHA-256: ______________________________
+
+Vault Field ID:
+
+⸻
+
+⸻
+
+Signature / Issuer
+
+Protocol A Station (Grounded DI LLC)
+
+⸻
+
+PAGE 1 — INTERACTIVE AUDIT SURFACE
+
+Audit Dimension:
+
+Human Interrogability
+
+Statement
+
+CleanAirWise outputs are interrogable through direct questioning without loss of determinism.
+
+Permitted Audit Actions
+
+• Follow-up questioning
+• Issue isolation
+• Counterfactual testing
+• Parameter substitution (within audited bounds)
+• Procedural posture variation
+
+Determinism Guarantee
+
+Identical inputs yield identical outputs under identical system state.
+
+Clarification
+
+All permitted audit actions occur within a fixed deterministic state and do not modify system logic, stored outputs, or audit artifacts.
+
+Exclusions
+
+• No probabilistic variance
+• No hidden adaptive learning
+• No post-hoc rewriting
+
+⸻
+
+PAGE 2 — COMPLIANCE METRICS SNAPSHOT
+
+Audit Dimension:
+
+Quantitative Integrity
+
+Metrics (As Of: YYYY-MM-DD)
+
+Metric	Value	Measurement Class
+DCR (Determinism Consistency Rate)	___	Observed (Audited Scope)
+PSRR (Primary Source Reliance)	___	Counted
+CTPI (Case-Type Purity Index)	___	Counted
+Entropy Integrity (ΔH)	0.0042	Enforced (System Constraint)
+CanonLock Status	___	Enforced (System Constraint)
+Domain Drift	NONE	Derived
+ELOCT Triggers	___	Counted
+TrapLayer Events	___	Counted
+
+Scope Alignment
+Metrics correspond exclusively to the audited scope defined on Page 0. No extrapolation beyond audited prompts or cases is implied.
+
+⸻
+
+PAGE 3 — CERTIFICATE OF AUDIT
+
+Certificate Type
+
+Scroll Compliance Certificate
+
+Issued By
+
+CleanAirWise DI²
+
+Audit Coverage
+
+• Total Prompts Audited: ___ / ___
+• Total Cases Audited: ___ / ___
+
+Scrolls Enforced
+
+• Scroll 91
+• Scroll 106
+• Scroll 138
+
+(Scroll list exhaustive for audited scope. No other scrolls were active during audited execution.)
+
+Integrity Results
+
+• Deterministic Air-Quality Logic Integrity: VERIFIED / ___
+• Canon Enforcement: VERIFIED / ___
+• Entropy Stability: VERIFIED / ___
+
+Vault Status
+
+STABLE / ___
+
+Certification Statement
+
+The audited system state conforms to enforced scroll governance and integrity thresholds within the defined scope.
+
+⸻
+
+PAGE 4 — DOCTRINE / ASSESSMENT EXHIBIT INDEX
+
+Audit Dimension:
+
+Deterministic Traceability
+
+Assessment Domains Covered
+
+• Parameter threshold evaluation
+• Index computation and normalization
+• Temporal aggregation logic
+• Output constraint enforcement
+
+Assessment Exhibits
+
+CleanAirWise generates and retains assessment maps that:
+• identify evaluated air-quality parameters,
+• apply fixed thresholds and classifications,
+• constrain narrative outputs to deterministic structures.
+
+Conformance Rule
+
+All narrative outputs must conform to their corresponding assessment exhibits.
+
+Exhibit Retention
+
+Assessment exhibits are preserved as audit artifacts.
+
+⸻
+
+PAGE 5 — FORMULA FUNCTION LEDGER
+
+Audit Dimension:
+
+Foundational Integrity Controls
+
+These formulas exist solely to enforce integrity constraints and audit boundaries, not to generate health guidance, public advisories, or operational air-quality directives.
+
+Formula Disclosure Level
+
+Functional Reference Only
+
+Referenced Integrity Formulas (License- and Context-Scoped)
+
+Total Active Formulas in Scope: ___
+
+Formula Activation Summary (Audited Scope)
+
+Formula ID	Status	Notes
+___	___	___
+___	___	___
+
+Non-triggered formulas remain active, armed, and enforceable; non-activation indicates absence of breach conditions, not absence of control.
+
+Disclosure Note
+Mathematical expressions are unnecessary for audit verification and intentionally excluded.
+
+⸻
+
+(OPTIONAL) PAGE 6 — DI PRINCIPLES REFERENCED
+
+Principle 91
+Ethical and cognitive integrity constraint.
+
+Principle 106
+Authorship and attribution integrity.
+
+Principle 138
+Citation and probability sealing.
+
+Constraint Status
+All principles enforced and non-overrideable.
+
+⸻
+
+🔒 SEALING RULE
+
+Once assembled:
+• export to PDF
+• compute hash
+• store immutably
+• never revise in place
+
+New audit state = new package.
+
+⸻
+
+#DeterministicAI #AuditableAI #GroundedDI
