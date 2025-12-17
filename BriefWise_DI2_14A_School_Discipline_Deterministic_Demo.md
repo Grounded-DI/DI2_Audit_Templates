@@ -95,8 +95,6 @@ No probabilistic reasoning or adaptation has been used.
 
 ---
 
----
-
 ## Part 2 – BriefWise DI² Deterministic Audit Package
 
 <details>
