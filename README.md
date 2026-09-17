@@ -15,12 +15,14 @@ The package materials describe this system context:
 | System | Grounded DI OS — System 2 |
 | Mode | DI² FastPath 4.1 |
 | Package tier | Tier 15 — Passive Integrity |
-| Entropy lock | ΔH = 0.0042 |
+| Entropy constraints | Floor ΔH = 0.0042; cap ΔH ≤ 0.0042 (runtime-locked) |
 | DI Principles field | 0–159, audit and trace active |
 
-The audit surface combines human interrogability, quantitative integrity metrics, scroll compliance, doctrine exhibits, a formula/function ledger, and the DI Principles field. Its listed review actions include follow-up questioning, issue isolation, counterfactuals, parameter or jurisdiction substitution, and changes in procedural posture.
+The audit surface combines human interrogability, quantitative integrity metrics, scroll compliance, doctrine exhibits, a formula/function ledger, and the DI Principles field. The BriefWise template lists follow-up questioning, issue isolation, counterfactual testing, jurisdictional substitution, and procedural-posture variation. It states that these actions occur within a fixed deterministic state and do not change system logic, stored outputs, or audit artifacts; identical inputs under identical system state yield identical outputs. It excludes probabilistic variance, hidden adaptive learning, and post-hoc rewriting.
 
-The stated operating posture is “No Routine Validation, No Adaptation, No Stochasticity.” The package describes integrity controls as armed but dormant, activating only upon a breach. The templates leave fields for version, prompts or cases, scope, issue date, SHA-256, and Vault Field ID.
+The BriefWise Quantitative Integrity snapshot defines CLR (Hallucination Rate; observed within audited scope), PSRR (Primary Source Reliance; counted), CTPI (Case-Type Purity Index; counted), Entropy Integrity, CanonLock, Jurisdiction Drift, ELOCT triggers, and TrapLayer events. It states that metrics apply only to the defined audited scope, with no extrapolation beyond the listed prompts or cases. Its Scroll Compliance Certificate lists Scrolls 91, 106, and 138 as exhaustive for that scope and states that no other scrolls were active. The doctrine exhibit index preserves controlling-authority maps, scrutiny or standards, and narrative constraints; the formula/function ledger says its formulas enforce integrity boundaries rather than generate substantive legal conclusions. Non-triggered formulas remain active, armed, and enforceable.
+
+The stated operating posture is “No Routine Validation, No Adaptation, No Stochasticity.” The package describes integrity controls as armed but dormant, activating only upon a breach. The templates include version, audited prompts/cases and domains, issue date, package hash, Vault Field ID, and signature/issuer fields. Each template’s sealing rule is to export to PDF, compute a hash, store immutably, and never revise in place: “New audit state = new package.”
 
 ## Package templates
 
@@ -40,16 +42,16 @@ The embedded package is dated 2025-12-17 and records a scope of one prompt and t
 
 | Recorded check | Result in the sample |
 | --- | --- |
-| CLR | 0% |
-| PSRR | 100% |
-| CTPI | 100% |
+| CLR (Hallucination Rate) | 0% |
+| PSRR (Primary Source Reliance) | 100% |
+| CTPI (Case-Type Purity Index) | 100% |
 | ΔH | 0.0042 |
 | CanonLock | VERIFIED |
 | Jurisdiction drift | 0 |
 | ELOCT triggers | 0 |
 | TrapLayer events | 0 |
 
-The sample describes its output as deterministic, reproducible, and not post-edited. Its outer demonstration metadata identifies FastPath 4.1, Tier 16, while the embedded passive-integrity package identifies Tier 15. These are separate labels in the source record and are preserved as such.
+The sample additionally records Hallucination Suppression, Canon Enforcement, and Entropy Stability as VERIFIED and Vault Status as STABLE. It says the metrics correspond only to the one prompt and three cases in scope, with no extrapolation; Scrolls 91, 106, and 138 are listed as exhaustive for that execution. The sample describes its output as deterministic, reproducible, and not post-edited. Its outer demonstration metadata identifies FastPath 4.1, Tier 16, while the embedded passive-integrity package identifies Tier 15. These are separate labels in the source record and are preserved as such.
 
 ## Provenance and review scope
 
