@@ -1,84 +1,58 @@
-**Grounded DI LLC — Audit Packages for Domain-Specific Applications**
+# DI² Audit Packages and the BriefWise School Discipline Demonstration
 
-This repository contains deterministic audit artifacts for Grounded DI LLC’s domain-specific protocols operating under Grounded DI OS — System 2.
+## Overview
 
-The contents document audit integrity only.
-They do not provide a model, service, API, or executable system.
+This repository preserves five domain-specific DI² audit package templates and one filled BriefWise demonstration. The package files are plain-text documents without file extensions; they are not exported PDFs. Together, the files describe an audit surface, its declared controls, and one dated sample record.
 
-⸻
+The templates are not an executable model or runtime. They generate no outputs. The repository’s technical content is the structure of the audit package and the contents of the BriefWise demonstration.
 
-What This Repository Is
-	•	A memorialized Tier-15 Passive Integrity audit package
-	•	A point-in-time record of system determinism and constraint enforcement
-	•	An inspection artifact for due diligence, governance, or compliance review
+## Declared package architecture
 
-⸻
+The package materials describe this system context:
 
-What This Repository Is Not
-	•	Not a model
-	•	Not an API
-	•	Not a runtime system
-	•	Not legal advice
-	•	Not operational instruction
-	•	Not authorization to act
+| Field | Recorded value |
+| --- | --- |
+| System | Grounded DI OS — System 2 |
+| Mode | DI² FastPath 4.1 |
+| Package tier | Tier 15 — Passive Integrity |
+| Entropy lock | ΔH = 0.0042 |
+| DI Principles field | 0–159, audit and trace active |
 
-No outputs are generated from this repository.
+The audit surface combines human interrogability, quantitative integrity metrics, scroll compliance, doctrine exhibits, a formula/function ledger, and the DI Principles field. Its listed review actions include follow-up questioning, issue isolation, counterfactuals, parameter or jurisdiction substitution, and changes in procedural posture.
 
-⸻
+The stated operating posture is “No Routine Validation, No Adaptation, No Stochasticity.” The package describes integrity controls as armed but dormant, activating only upon a breach. The templates leave fields for version, prompts or cases, scope, issue date, SHA-256, and Vault Field ID.
 
-System Context
-	•	System: Grounded DI OS — System 2
-	•	Modules: Domain-specific DI² applications (e.g., BriefWise, CleanWaterWise)
-	•	Mode: DI² FastPath 4.1
-	•	Tier: 15 — Passive Integrity
-	•	Entropy Lock: ΔH = 0.0042
-	•	DI Principles Field: 0–159 (audit / trace active)
+## Package templates
 
-⸻
+- [BriefWise_DI²_Audit_Package](<BriefWise_DI%C2%B2_Audit_Package>) — legal-domain package template.
+- [CleanAirWise_DI²_Audit_Package](<CleanAirWise_DI%C2%B2_Audit_Package>) — air-quality package template.
+- [CleanWaterWise_DI²_Audit_Package](<CleanWaterWise_DI%C2%B2_Audit_Package>) — water-quality package template.
+- [FinanceWise_DI²_Audit_Package](<FinanceWise_DI%C2%B2_Audit_Package>) — finance-domain package template.
+- [HazardWiseWise_DI²_Audit_Package](<HazardWiseWise_DI%C2%B2_Audit_Package>) — hazard-domain package; the doubled “Wise” is part of the repository filename.
 
-Audit Posture
-	•	Passive integrity monitoring only
-	•	No adaptive behavior
-	•	No probabilistic processing
-	•	No background execution
-	•	Deterministic, clause-locked evaluation
+These are package forms with unfilled metadata and scope fields, not five completed audits.
 
-All integrity controls are armed but dormant and activate only upon breach.
+## Filled example: BriefWise DI2 14A school-discipline demo
 
-⸻
+[BriefWise_DI2_14A_School_Discipline_Deterministic_Demo.md](BriefWise_DI2_14A_School_Discipline_Deterministic_Demo.md) presents a hypothetical public-school discipline and political-T-shirt dispute in a summary-judgment setting. Its legal frame includes Fourteenth Amendment Due Process and Equal Protection and the Tinker “material and substantial disruption” standard, with Goss, Tinker, and Plyler among the cited authorities.
 
-Repository Contents
+The embedded package is dated 2025-12-17 and records a scope of one prompt and three cases across constitutional law and school law. It names Scrolls 91, 106, and 138 and records the following values:
 
-Audit Package (PDF)
+| Recorded check | Result in the sample |
+| --- | --- |
+| CLR | 0% |
+| PSRR | 100% |
+| CTPI | 100% |
+| ΔH | 0.0042 |
+| CanonLock | VERIFIED |
+| Jurisdiction drift | 0 |
+| ELOCT triggers | 0 |
+| TrapLayer events | 0 |
 
-Canonical sealed audit artifact.
+The sample describes its output as deterministic, reproducible, and not post-edited. Its outer demonstration metadata identifies FastPath 4.1, Tier 16, while the embedded passive-integrity package identifies Tier 15. These are separate labels in the source record and are preserved as such.
 
-Hash Record
+## Provenance and review scope
 
-SHA-256 digest for integrity verification.
+The sample prints SHA-256 **7f01a7f8154e6cbb16b5e6cba7417d65dcd7c2a5d418be21671a12ca2a88cf47**. The same document also contains the generic placeholder “[Unique SHA-256 computed at PDF export],” and its Vault Field ID remains “[To be assigned].” No exported package PDF or manifest is included here to compare against the printed digest.
 
-Metadata (Non-Executable)
-
-Scope, counts, and audit context only.
-
-⸻
-
-Immutability Rule
-
-Once issued:
-	•	the audit package is sealed,
-	•	hashed,
-	•	and never revised.
-
-Any update produces a new audit package.
-
-⸻
-
-Ownership
-
-Protocol A Station
-Grounded DI LLC
-
-This repository is provided for inspection only.
-
-#DeterministicAI #AuditableAI #DeterministicIntelligence #GroundedDI @GoogleAI
+The repository contains the package documents and the written legal scenario; it does not contain an executable model/runtime, raw run log, or independent review of the hypothetical case analysis. A reviewer can start with the five package forms, then compare their declared audit surface with the dated BriefWise example and its recorded values.
