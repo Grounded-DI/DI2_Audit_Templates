@@ -4,7 +4,7 @@
 
 This repository preserves five domain-specific DI² audit package templates and one filled BriefWise demonstration. The package files are plain-text documents without file extensions; they are not exported PDFs. Together, the files describe an audit surface, its declared controls, and one dated sample record.
 
-The templates are not an executable model or runtime. They generate no outputs. The repository’s technical content is the structure of the audit package and the contents of the BriefWise demonstration.
+The templates define the audit structure. The BriefWise example shows how its fields were filled for a dated legal scenario.
 
 ## Declared package architecture
 
@@ -32,7 +32,7 @@ The stated operating posture is “No Routine Validation, No Adaptation, No Stoc
 - [FinanceWise_DI²_Audit_Package](<FinanceWise_DI%C2%B2_Audit_Package>) — finance-domain package template.
 - [HazardWiseWise_DI²_Audit_Package](<HazardWiseWise_DI%C2%B2_Audit_Package>) — hazard-domain package; the doubled “Wise” is part of the repository filename.
 
-These are package forms with unfilled metadata and scope fields, not five completed audits.
+These five package forms have unfilled metadata and scope fields.
 
 ## Filled example: BriefWise DI2 14A school-discipline demo
 
@@ -57,4 +57,4 @@ The sample additionally records Hallucination Suppression, Canon Enforcement, an
 
 The sample prints SHA-256 **7f01a7f8154e6cbb16b5e6cba7417d65dcd7c2a5d418be21671a12ca2a88cf47**. The same document also contains the generic placeholder “[Unique SHA-256 computed at PDF export],” and its Vault Field ID remains “[To be assigned].” No exported package PDF or manifest is included here to compare against the printed digest.
 
-The repository contains the package documents and the written legal scenario; it does not contain an executable model/runtime, raw run log, or independent review of the hypothetical case analysis. A reviewer can start with the five package forms, then compare their declared audit surface with the dated BriefWise example and its recorded values.
+The package documents and written legal scenario are available above. The sample's printed digest has no exported PDF or manifest in this repository for a byte comparison. Reviewers can compare the five forms with the dated BriefWise example and its recorded values.
